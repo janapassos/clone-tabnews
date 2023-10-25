@@ -1,4 +1,4 @@
 function Home() {
-    return <h1>Rogério, estou de olho em você. Se entendeu me dê um chocolate kkk</h1>
+    return <h1>Rogério, Você é muito especial pra mim, mesmo não me dando um chocolate. Se não comeu tudo, me dê um tikim kkk</h1>
 }
 export default Home;
