@@ -1,7 +1,8 @@
 function Home() {
   return (
     <h1>
-      Mãe, Boa noite ou bom dia!!! Treinando programação, tecnologia kkkkkk
+      Fati,<br>
+      bom dia!!! Enquanto vc estava sendo atendida pela médica, as meninas se divertiram tanto! Elas agradeceram à noite pelo passeio da tarde kkkk
     </h1>
   );
 }
